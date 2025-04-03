@@ -3,6 +3,9 @@ import numpy as np
 import pandas as pd
 
 from sklearn.preprocessing import StandardScaler
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 from src.pipeline.predict_pipeline import PredictPipeline, CustomData
 
 application = Flask(__name__)
