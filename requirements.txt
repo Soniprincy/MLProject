@@ -6,5 +6,8 @@ scikit-learn
 catboost
 xgboost
 Flask
+dill==0.3.9
+
 
 #-e .
+ 

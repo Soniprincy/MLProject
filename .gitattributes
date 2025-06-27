@@ -1,1 +1,12 @@
+# <<<<<<< HEAD
+# =======
+# <<<<<<< HEAD
+# *.zip filter=lfs diff=lfs merge=lfs -text
+# =======
+# >>>>>>> cba3cf29c3d2f9812311dca00e566f589d874095
+# >>>>>>> ebd1ccd #(commit)
+# .ebextensions.zip filter=lfs diff=lfs merge=lfs -text
+
+*.zip filter=lfs diff=lfs merge=lfs -text
 .ebextensions.zip filter=lfs diff=lfs merge=lfs -text
+
